@@ -1,5 +1,5 @@
-# 🚧 Prediksi_HargaSaham_using-BILSTM-CNN
+# 📈 Prediksi Harga Saham (BiLSTM - CNN)
 
-> **Catatan:** File README ini bersifat sementara. Dokumentasi lengkap dan *source code* sedang dalam tahap perapihan dan akan segera diperbarui.
+Sistem prediksi harga saham perusahaan teknologi (Apple, Google, Meta, dll.) menggunakan arsitektur hybrid Deep Learning (Bi-Directional LSTM dan CNN). Dilengkapi script crawling data otomatis.
 
-Project ini merupakan bagian dari portofolio.
+**Teknologi:** Python, Deep Learning, Data Scraping
